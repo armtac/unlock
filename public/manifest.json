@@ -1,0 +1,18 @@
+{
+  "name": "UNLOCK - Unlock your next step",
+  "short_name": "UNLOCK",
+  "description": "Get instant expert advice to unlock your next step",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/logo_unlock.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "1",
+    "name": "Camillo Di Giulio",
+    "role": "Procurement Director",
+    "expertise": "Acquisti in manufacturing industry",
+    "categories": ["Procurement", "Manufacturing"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.8,
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "location": "Roma, Italia",
+    "bio": "Con oltre 15 anni di esperienza nel procurement strategico, ho guidato team di acquisti in aziende manifatturiere leader. Specializzato in negoziazione contratti complessi, ottimizzazione supply chain e riduzione costi. Ho gestito portafogli di fornitori per oltre 50M€ annui.",
+    "linkedin": "https://linkedin.com/in/camillo-di-giulio",
+    "experience": [
+      "Procurement Director @ Manufacturing Corp (2018-presente)",
+      "Senior Buyer @ Industrial Solutions (2012-2018)",
+      "Procurement Specialist @ Tech Manufacturing (2008-2012)"
+    ],
+    "education": "MBA in Supply Chain Management - Università Bocconi",
+    "attachments": [
+      {
+        "id": "att1",
+        "title": "Template Negoziazione Fornitori",
+        "description": "Framework completo per negoziare contratti con fornitori strategici",
+        "type": "PDF",
+        "price": 0,
+        "isFree": true
+      },
+      {
+        "id": "att2",
+        "title": "Checklist Vendor Assessment",
+        "description": "Criteri di valutazione fornitori con scoring system",
+        "type": "Excel",
+        "price": 29,
+        "isFree": false
+      },
+      {
+        "id": "att3",
+        "title": "Case Study: Riduzione Costi 30%",
+        "description": "Analisi dettagliata di un progetto di cost reduction in manufacturing",
+        "type": "PDF",
+        "price": 49,
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Gaetano Di Corinto",
+    "role": "HR Director",
+    "expertise": "HR leadership",
+    "categories": ["HR", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.7,
+    "lat": 45.4642,
+    "lng": 9.1900,
+    "location": "Milano, Italia",
+    "bio": "HR Director con 12+ anni di esperienza in gestione risorse umane, talent acquisition e change management. Ho supportato oltre 50 aziende nella trasformazione organizzativa e nello sviluppo di strategie HR efficaci. Esperto in employer branding e people analytics.",
+    "linkedin": "https://linkedin.com/in/gaetano-di-corinto",
+    "experience": [
+      "HR Director @ Tech Innovation (2019-presente)",
+      "Head of Talent @ Digital Consulting (2015-2019)",
+      "HR Business Partner @ Corporate Services (2011-2015)"
+    ],
+    "education": "Master in HR Management - LUISS Business School",
+    "attachments": [
+      {
+        "id": "att4",
+        "title": "Guida Completa al Recruiting",
+        "description": "Best practices per attrarre e selezionare i migliori talenti",
+        "type": "PDF",
+        "price": 0,
+        "isFree": true
+      },
+      {
+        "id": "att5",
+        "title": "Template Piano Onboarding 90 giorni",
+        "description": "Framework strutturato per l'inserimento di nuove risorse",
+        "type": "Word",
+        "price": 39,
+        "isFree": false
+      },
+      {
+        "id": "att6",
+        "title": "HR Analytics Dashboard",
+        "description": "Template Excel con KPI HR e metriche di performance",
+        "type": "Excel",
+        "price": 59,
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Giustino Obletter",
+    "role": "CFO",
+    "expertise": "Finanza, decisioni CFO, budgeting",
+    "categories": ["Finance", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.9,
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "location": "Firenze, Italia",
+    "bio": "CFO con 18 anni di esperienza in pianificazione finanziaria strategica, M&A e gestione del rischio. Ho guidato operazioni finanziarie per oltre 200M€ e supportato 3 exit di successo. Specializzato in financial modeling, budgeting e investor relations per startup e PMI.",
+    "linkedin": "https://linkedin.com/in/giustino-obletter",
+    "experience": [
+      "CFO @ Growth Capital Partners (2017-presente)",
+      "Finance Director @ Investment Group (2012-2017)",
+      "Senior Financial Analyst @ Banking Corp (2005-2012)"
+    ],
+    "education": "CFA Charter + Laurea in Economia - Università Cattolica",
+    "attachments": [
+      {
+        "id": "att7",
+        "title": "Financial Model Template",
+        "description": "Modello Excel per budget e forecast a 3 anni",
+        "type": "Excel",
+        "price": 0,
+        "isFree": true
+      },
+      {
+        "id": "att8",
+        "title": "CFO Toolkit Completo",
+        "description": "Raccolta di template: cash flow, P&L, balance sheet, KPI dashboard",
+        "type": "ZIP",
+        "price": 99,
+        "isFree": false
+      },
+      {
+        "id": "att9",
+        "title": "Guida Investor Relations",
+        "description": "Come preparare pitch deck e comunicare con investitori",
+        "type": "PDF",
+        "price": 79,
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Armando Tacconelli",
+    "role": "Head of Finance IT & Transformation",
+    "expertise": "Material Cost, Supply Base performance, Business case, product quotation to customer",
+    "categories": ["Finance IT & Transformation", "Finance", "Manufacturing"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.8,
+    "lat": 45.0703,
+    "lng": 7.6869,
+    "location": "Torino, Italia",
+    "bio": "Esperto in trasformazione digitale della funzione Finance con focus su automazione processi, ERP implementation e business intelligence. 14 anni di esperienza in material cost analysis, supply base optimization e business case development. Ho guidato progetti di digital transformation per oltre 30M€.",
+    "linkedin": "https://linkedin.com/in/armando-tacconelli",
+    "experience": [
+      "Head of Finance IT & Transformation @ Industrial Tech (2018-presente)",
+      "Finance Systems Manager @ Manufacturing Solutions (2013-2018)",
+      "Business Analyst @ Automotive Corp (2009-2013)"
+    ],
+    "education": "Master in Digital Transformation - Politecnico di Milano",
+    "attachments": [
+      {
+        "id": "att10",
+        "title": "Business Case Template",
+        "description": "Framework completo per costruire business case convincenti",
+        "type": "Excel",
+        "price": 0,
+        "isFree": true
+      },
+      {
+        "id": "att11",
+        "title": "Guida ERP Selection",
+        "description": "Metodologia per scegliere e implementare il giusto ERP",
+        "type": "PDF",
+        "price": 69,
+        "isFree": false
+      },
+      {
+        "id": "att12",
+        "title": "Material Cost Analysis Toolkit",
+        "description": "Template Excel per analisi costi materiali e supply base performance",
+        "type": "Excel",
+        "price": 89,
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Marco Rossi",
+    "role": "Sales Manager",
+    "expertise": "B2B sales strategy",
+    "categories": ["Sales", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Mid",
+    "rating": 4.5,
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "location": "Bologna, Italia"
+  },
+  {
+    "id": "6",
+    "name": "Laura Bianchi",
+    "role": "HR Specialist",
+    "expertise": "Talent acquisition and retention",
+    "categories": ["HR"],
+    "languages": ["IT", "EN", "ES"],
+    "level": "Mid",
+    "rating": 4.6,
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "location": "Napoli, Italia"
+  },
+  {
+    "id": "7",
+    "name": "Giuseppe Verdi",
+    "role": "Finance Analyst",
+    "expertise": "Financial planning and analysis",
+    "categories": ["Finance"],
+    "languages": ["IT", "EN"],
+    "level": "Junior",
+    "rating": 4.3,
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "location": "Londra, UK"
+  },
+  {
+    "id": "8",
+    "name": "Sofia Romano",
+    "role": "Procurement Specialist",
+    "expertise": "Supplier management",
+    "categories": ["Procurement"],
+    "languages": ["IT", "EN", "ES"],
+    "level": "Mid",
+    "rating": 4.4,
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "location": "Venezia, Italia"
+  },
+  {
+    "id": "9",
+    "name": "Andrea Ferrari",
+    "role": "IT Transformation Lead",
+    "expertise": "Digital transformation projects",
+    "categories": ["Finance IT & Transformation"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.7,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "location": "Parigi, Francia"
+  },
+  {
+    "id": "10",
+    "name": "Francesca Colombo",
+    "role": "Leadership Coach",
+    "expertise": "Executive coaching",
+    "categories": ["Leadership"],
+    "languages": ["IT", "EN", "ES"],
+    "level": "Senior",
+    "rating": 4.8,
+    "lat": 44.4056,
+    "lng": 8.9463,
+    "location": "Genova, Italia"
+  },
+  {
+    "id": "11",
+    "name": "Roberto Esposito",
+    "role": "Sales Director",
+    "expertise": "Enterprise sales",
+    "categories": ["Sales", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.6,
+    "lat": 52.5200,
+    "lng": 13.4050,
+    "location": "Berlino, Germania"
+  },
+  {
+    "id": "12",
+    "name": "Giulia Ricci",
+    "role": "Finance Manager",
+    "expertise": "Cost control and budgeting",
+    "categories": ["Finance"],
+    "languages": ["IT", "EN"],
+    "level": "Mid",
+    "rating": 4.5,
+    "lat": 45.4384,
+    "lng": 10.9916,
+    "location": "Verona, Italia"
+  },
+  {
+    "id": "13",
+    "name": "Luca Marino",
+    "role": "Procurement Consultant",
+    "expertise": "Strategic sourcing",
+    "categories": ["Procurement"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.7,
+    "lat": 41.3851,
+    "lng": 2.1734,
+    "location": "Barcellona, Spagna"
+  },
+  {
+    "id": "14",
+    "name": "Valentina Greco",
+    "role": "HR Business Partner",
+    "expertise": "Organizational development",
+    "categories": ["HR", "Leadership"],
+    "languages": ["IT", "EN", "ES"],
+    "level": "Mid",
+    "rating": 4.4,
+    "lat": 45.4064,
+    "lng": 11.8768,
+    "location": "Padova, Italia"
+  },
+  {
+    "id": "15",
+    "name": "Matteo Conti",
+    "role": "IT Manager",
+    "expertise": "IT infrastructure and systems",
+    "categories": ["Finance IT & Transformation"],
+    "languages": ["IT", "EN"],
+    "level": "Mid",
+    "rating": 4.5,
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "location": "Amsterdam, Paesi Bassi"
+  },
+  {
+    "id": "16",
+    "name": "Chiara Bruno",
+    "role": "Sales Consultant",
+    "expertise": "Customer relationship management",
+    "categories": ["Sales"],
+    "languages": ["IT", "EN"],
+    "level": "Junior",
+    "rating": 4.2,
+    "lat": 38.1157,
+    "lng": 13.3615,
+    "location": "Palermo, Italia"
+  },
+  {
+    "id": "17",
+    "name": "Alessandro Gallo",
+    "role": "CFO Advisor",
+    "expertise": "Strategic financial planning",
+    "categories": ["Finance", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.9,
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "location": "Zurigo, Svizzera"
+  },
+  {
+    "id": "18",
+    "name": "Elena Lombardi",
+    "role": "Procurement Manager",
+    "expertise": "Contract negotiation",
+    "categories": ["Procurement"],
+    "languages": ["IT", "EN", "ES"],
+    "level": "Mid",
+    "rating": 4.6,
+    "lat": 41.1171,
+    "lng": 16.8719,
+    "location": "Bari, Italia"
+  },
+  {
+    "id": "19",
+    "name": "Davide Moretti",
+    "role": "HR Director",
+    "expertise": "Change management",
+    "categories": ["HR", "Leadership"],
+    "languages": ["IT", "EN"],
+    "level": "Senior",
+    "rating": 4.8,
+    "lat": 48.1351,
+    "lng": 11.5820,
+    "location": "Monaco, Germania"
+  },
+  {
+    "id": "20",
+    "name": "Simona Barbieri",
+    "role": "Digital Transformation Specialist",
+    "expertise": "Process automation",
+    "categories": ["Finance IT & Transformation"],
+    "languages": ["IT", "EN"],
+    "level": "Mid",
+    "rating": 4.4,
+    "lat": 37.5079,
+    "lng": 15.0830,
+    "location": "Catania, Italia"
+  }
+]
