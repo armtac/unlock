@@ -22,10 +22,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/onboarding" element={<Onboarding />} />
-        <Route 
-          path="/home" 
-          element={user.language ? <Home /> : <Navigate to="/onboarding" />} 
-        />
+        <Route path="/home" element={<Home />} />
         <Route path="/intake" element={<Intake />} />
         <Route path="/matching" element={<Matching />} />
         <Route path="/call" element={<Call />} />
